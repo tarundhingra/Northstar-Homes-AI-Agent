@@ -2,7 +2,7 @@
 
 A conversational AI sales assistant named Zara built for Northstar One, a residential development in Sector 79, Gurugram. The agent conducts lead qualification, speaks English/Hindi/Hinglish, and seamlessly manages site-visit bookings. 
 
-## DEMO LINK : https://drive.google.com/file/d/1-FO4WB1Cwf2kQlxkZL5BHHGP0OyG0W-t/view?usp=sharing
+## DEMO VIDEO LINK : https://drive.google.com/file/d/1-FO4WB1Cwf2kQlxkZL5BHHGP0OyG0W-t/view?usp=sharing
 ## How to Run the Bot
 
 ### Prerequisites
