@@ -25,7 +25,7 @@ A conversational AI sales assistant named Zara built for Northstar One, a reside
 2. **Set up the virtual environment:**
 We use uv for fast environment creation.
 
-Bash
+Bash(Terminal)
 uv venv
 
 3. **Activate the virtual environment:**
@@ -36,7 +36,7 @@ On Windows: .venv\Scripts\activate
 
 4. **Install dependencies:**
 
-Bash
+Bash(Terminal)
 uv pip install -r requirements.txt
 
 5. **Environment Variables:**
@@ -47,13 +47,13 @@ GEMINI_API_KEY=your_actual_api_key_here
 6. **Start the Backend:**
 Run the FastAPI server using Uvicorn.
 
-Bash
+Bash(Terminal)
 uvicorn main:app --reload --port 8000
 
 7. **Start the Frontend:**
 Open a new terminal window, activate the virtual environment again, and launch Streamlit:
 
-Bash
+Bash(Terminal)
 streamlit run streamlit_app.py
 
 ---
